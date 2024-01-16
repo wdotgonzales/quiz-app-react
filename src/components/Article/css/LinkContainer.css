@@ -1,0 +1,13 @@
+svg {
+    width: 15px;
+    height: 15px;
+
+    color: rgb(196, 196, 196);
+}
+
+svg:hover {
+    color: white;
+    transform: scale(1.5,1.5);
+}
+
+

@@ -1,0 +1,5 @@
+aside {
+    background: rgb(0, 0, 115);
+    background: linear-gradient(360deg, rgba(0, 0, 115, 1) 0%, rgba(23, 56, 145, 1) 6%, rgba(0, 108, 255, 1) 100%);
+    color: white;
+}

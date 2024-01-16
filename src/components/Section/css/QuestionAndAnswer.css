@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Manjari&display=swap');
+
+#letter {
+    background-color: black;
+    color: white;
+    padding: 0.7em;
+}
+
+#scoreText {
+    font-family: 'Bungee Spice', sans-serif;
+}
+
+.loader {
+    margin-top: 8em;
+    width: 5.4em;
+    height: 5.4em;
+    border: 0.4em solid rgb(84, 84, 84);
+    border-left-color: rgb(0, 55, 255);
+    border-radius: 45%;
+    animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
