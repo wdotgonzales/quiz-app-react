@@ -44,6 +44,6 @@ Follow these steps to get the Trivia Quiz App up and running on your local machi
    ```bash
    npm run dev
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:5173)
+
 
 
