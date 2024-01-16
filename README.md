@@ -24,4 +24,23 @@ Follow these steps to get the Trivia Quiz App up and running on your local machi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/trivia-quiz-app.git
+   git clone https://github.com/wdotgonzales/quiz-app-react.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd quiz-app-react
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+
+5. Open your web browser and visit [http://localhost:3000](http://localhost:3000)
+
+
