@@ -2,6 +2,9 @@
 
 Welcome to the Trivia Quiz App, a fun and interactive application that allows users to test their knowledge across various categories such as history, geography, science, sports, and more. This project is built with the help of [The Trivia API](https://the-trivia-api.com/), enabling seamless fetching of diverse questions with multiple choices.
 
+![image](https://github.com/wdotgonzales/quiz-app-react/assets/98573039/e6b9620d-eee2-4c90-9a98-ceefc818e380)
+
+
 ## Video Demonstration
 - [Click Here](https://youtu.be/ZHNWMrXwM_U)
 
