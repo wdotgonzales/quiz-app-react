@@ -14,7 +14,6 @@ Welcome to the Trivia Quiz App, a fun and interactive application that allows us
 - **Random Questions:** Get random questions from your selected category for a challenging and dynamic quiz.
 - **Time Limit:** Each question has a 20-second time limit. If the time elapses, the quiz will proceed to the next question, marking the current answer as incorrect.
 - **Score Tracking:** Keep track of your performance with a built-in scoring system.
-- **Responsive Design:** Enjoy a seamless experience on different devices with our responsive design.
 
 ## Getting Started
 
